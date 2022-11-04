@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1>Eae pessoal, me chamo <strong style="color:#fd0041">Arthur Soares Farias</strong></h1> 👋
 
 ![Snake Gif](https://github.com/ArthurSMK/ArthurSMK/blob/output/github-contribution-grid-snake.svg)
 <!--
