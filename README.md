@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-github-contribution-grid-snake.gif
+![Snake Gif](https://github.com/ArthurSMK/ArthurSMK/blob/output/github-contribution-grid-snake.svg)
 <!--
 **ArthurSMK/ArthurSMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
