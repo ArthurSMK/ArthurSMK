@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 <!--
 **ArthurSMK/ArthurSMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
