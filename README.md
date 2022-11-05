@@ -1,10 +1,11 @@
-###Eae pessoal, me chamo <strong>Arthur Soares Farias</strong> 👋
+###Eae pessoal, me chamo <strong>Arthur Soares Farias</strong>, tenho <strong>21 anos</strong> e atualmente estou cursando <strong>Sistemas de Informação</strong> na UFAC. 👋
 
 ![Snake Gif](https://github.com/ArthurSMK/ArthurSMK/blob/output/github-contribution-grid-snake.svg)
 
 <style>
   strong {
-  color: red; }
+    color: #fd0041;
+  }
 </style>
 <!--
 **ArthurSMK/ArthurSMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
