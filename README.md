@@ -1,6 +1,11 @@
-### <h1>Eae pessoal, me chamo <strong style="color:#fd0041">Arthur Soares Farias</strong></h1> 👋
+###Eae pessoal, me chamo <strong>Arthur Soares Farias</strong> 👋
 
 ![Snake Gif](https://github.com/ArthurSMK/ArthurSMK/blob/output/github-contribution-grid-snake.svg)
+
+<style>
+  strong {
+  color: red; }
+</style>
 <!--
 **ArthurSMK/ArthurSMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
