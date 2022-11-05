@@ -1,6 +1,10 @@
-###<h1 align="center">Eae pessoal, Beleza?</h1>
+###<h1 align="center">Eae pessoal, beleza?</h1>
 
-Eu me chamo :scarf:<strong>Arthur Soares Farias</strong>:scarf:, tenho :scarf:<strong>21 anos</strong>:scarf: e atualmente estou estudando :scarf:<strong>Sistemas de Informação</strong>:scarf:na UFAC:earth_americas:.
+:scarf:Eu me chamo <strong>Arthur Soares Farias</strong>, tenho <strong>21 anos</strong> e atualmente estou estudando <strong>Sistemas de Informação</strong> na UFAC:earth_americas:.
+
+<h3>Atualmente tenho conhecimento em:</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+          
 
 ![Snake Gif](https://github.com/ArthurSMK/ArthurSMK/blob/output/github-contribution-grid-snake.svg)
 
