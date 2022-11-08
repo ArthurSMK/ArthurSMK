@@ -8,11 +8,11 @@
 <a href="https://www.youtube.com/channel/UC_BrS8vM5AW2BzcVRkZ4eqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/arthursmk18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/arthursmk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/arthur-soares-farias-154560245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+<a href="https://www.linkedin.com/in/arthur-soares-farias-154560245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
-<a href="https://github.com/ArthurSMK">
+<br><a href="https://github.com/ArthurSMK">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSMK&layout=compact&langs_count=7&theme=dracula"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArthurSMK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
