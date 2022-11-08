@@ -19,12 +19,6 @@ Comecei a estudar programação no começo de <strong>2019</strong>, quando entr
 <a href="https://www.linkedin.com/in/arthur-soares-farias-154560245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-<br><a href="https://github.com/ArthurSMK">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSMK&layout=compact&langs_count=7&theme=dracula"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArthurSMK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## <div align="left">Atualmente tenho conhecimento em:</div>
 <div align="center">
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
