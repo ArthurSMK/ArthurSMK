@@ -1,4 +1,4 @@
-<h1 align="center">EAE PESSOAL, BELEZA?</h1>
+<h1 align="center">EAI PESSOAL, BELEZA?</h1>
 
 ## Sobre mim: 
 <div align="center">
